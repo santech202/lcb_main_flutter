@@ -1,0 +1,466 @@
+{
+  "count": 82,
+  "next": "http://swapi.dev/api/people/?page=2",
+  "previous": null,
+  "altele": [
+    {
+      "dataExamen": "2021-07-01"
+    }
+  ],
+  "history": [
+    {
+      "an": "2020",
+      "statistica": "Romana Uman",
+      "varianta": "1"
+    },
+    {
+      "an": "2020",
+      "statistica": "Romana Real",
+      "varianta": "2"
+    },
+    {
+      "an": "2019",
+      "statistica": "Romana Uman",
+      "varianta": "1"
+    },
+    {
+      "an": "2019",
+      "statistica": "Romana Real",
+      "varianta": "4"
+    },
+    {
+      "an": "2018",
+      "statistica": "Romana Uman",
+      "varianta": "2"
+    },
+    {
+      "an": "2018",
+      "statistica": "Romana Real",
+      "varianta": "1"
+    },
+    {
+      "an": "2017",
+      "statistica": "Romana Uman",
+      "varianta": "3"
+    },
+    {
+      "an": "2017",
+      "statistica": "Romana Real",
+      "varianta": "2"
+    }
+  ],
+
+  "stats1": [
+    {
+      "epic": 80,
+      "liric": 20,
+
+      "probability": 100
+    },
+    {
+      "name": "Luceafărul / Floare albastră",
+      "probability": 34,
+      "past_2_years": "1",
+      "past_5_years": "3"
+    },
+    {
+      "name": "Plumb / Lacustră",
+      "probability": 21,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Eu nu strivesc corola de minuni a lumii",
+      "probability": 5,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Flori de mucigai",
+      "probability": 3,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Testament",
+      "probability": 7,
+      "past_2_years": "1",
+      "past_5_years": "1"
+    },
+    {
+      "name": "Riga Crypto și lapona Enigel",
+      "probability": 3,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Leoaică tânără, iubirea... ",
+      "probability": 2,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Aci sosi pe vremuri / În grădina Ghetsemani",
+      "probability": 17,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "O scrisoare pierdută",
+      "probability": 35,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Moara cu Noroc",
+      "probability": 65,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Baltagul",
+      "probability": 34,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Ion",
+      "probability": 56,
+      "past_2_years": "2",
+      "past_5_years": "3"
+    },
+    {
+      "name": "Ultima noapte de dragoste, întâia noapte de război",
+      "probability": 26,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Patul lui Procust",
+      "probability": 19,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Enigma Otiliei",
+      "probability": 64,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Moromeții",
+      "probability": 14,
+      "past_2_years": "3",
+      "past_5_years": "4"
+    },
+    {
+      "name": "Povestea lui Harap Alb",
+      "probability": 69,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Alexandru Lăpușneanul",
+      "probability": 41,
+      "past_2_years": "1",
+      "past_5_years": "2"
+    },
+    {
+      "name": "Iona",
+      "probability": 13,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Zmeura de câmpie",
+      "probability": 1,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Femeia în roșu",
+      "probability": 1,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    }
+  ],
+
+  "stats2": [
+    {
+      "epic": 80,
+      "liric": 20,
+
+      "probability": 100
+    },
+    {
+      "name": "Luceafărul / Floare albastră",
+      "probability": 34,
+      "past_2_years": "1",
+      "past_5_years": "3"
+    },
+    {
+      "name": "Plumb / Lacustră",
+      "probability": 21,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Eu nu strivesc corola de minuni a lumii",
+      "probability": 5,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Flori de mucigai",
+      "probability": 3,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Testament",
+      "probability": 7,
+      "past_2_years": "1",
+      "past_5_years": "1"
+    },
+    {
+      "name": "Riga Crypto și lapona Enigel",
+      "probability": 3,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Leoaică tânără, iubirea... ",
+      "probability": 2,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Aci sosi pe vremuri / În grădina Ghetsemani",
+      "probability": 17,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "O scrisoare pierdută",
+      "probability": 35,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Moara cu Noroc",
+      "probability": 65,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Baltagul",
+      "probability": 34,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Ion",
+      "probability": 56,
+      "past_2_years": "2",
+      "past_5_years": "3"
+    },
+    {
+      "name": "Ultima noapte de dragoste, întâia noapte de război",
+      "probability": 26,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Patul lui Procust",
+      "probability": 19,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Enigma Otiliei",
+      "probability": 64,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Moromeții",
+      "probability": 14,
+      "past_2_years": "3",
+      "past_5_years": "4"
+    },
+    {
+      "name": "Povestea lui Harap Alb",
+      "probability": 69,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Alexandru Lăpușneanul",
+      "probability": 41,
+      "past_2_years": "1",
+      "past_5_years": "2"
+    },
+    {
+      "name": "Iona",
+      "probability": 13,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Zmeura de câmpie",
+      "probability": 1,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Femeia în roșu",
+      "probability": 1,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    }
+  ],
+
+  "stats3": [
+    {
+      "epic": 80,
+      "liric": 20,
+
+      "probability": 100
+    },
+    {
+      "name": "Luceafărul / Floare albastră",
+      "probability": 34,
+      "past_2_years": "1",
+      "past_5_years": "3"
+    },
+    {
+      "name": "Plumb / Lacustră",
+      "probability": 21,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Eu nu strivesc corola de minuni a lumii",
+      "probability": 5,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Flori de mucigai",
+      "probability": 3,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Testament",
+      "probability": 7,
+      "past_2_years": "1",
+      "past_5_years": "1"
+    },
+    {
+      "name": "Riga Crypto și lapona Enigel",
+      "probability": 3,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+
+      "name": "Leoaică tânără, iubirea... ",
+      "probability": 2,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Aci sosi pe vremuri / În grădina Ghetsemani",
+      "probability": 17,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "O scrisoare pierdută",
+      "probability": 35,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Moara cu Noroc",
+      "probability": 65,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Baltagul",
+      "probability": 34,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Ion",
+      "probability": 56,
+      "past_2_years": "2",
+      "past_5_years": "3"
+    },
+    {
+      "name": "Ultima noapte de dragoste, întâia noapte de război",
+      "probability": 26,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Patul lui Procust",
+      "probability": 19,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Enigma Otiliei",
+      "probability": 64,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Moromeții",
+      "probability": 14,
+      "past_2_years": "3",
+      "past_5_years": "4"
+    },
+    {
+      "name": "Povestea lui Harap Alb",
+      "probability": 69,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Alexandru Lăpușneanul",
+      "probability": 41,
+      "past_2_years": "1",
+      "past_5_years": "2"
+    },
+    {
+      "name": "Iona",
+      "probability": 13,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Zmeura de câmpie",
+      "probability": 1,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    },
+    {
+      "name": "Femeia în roșu",
+      "probability": 1,
+      "past_2_years": "0",
+      "past_5_years": "0"
+    }
+  ]
+}
